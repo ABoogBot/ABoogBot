@@ -1,4 +1,4 @@
-## Hello all👋 I'm Aaron Brackett, a current CS & Cybersecurity student at Old Dominion University.
+## Hello all👋 I'm Aaron Brackett, a current CS & Cybersecurity student at Old Dominion University
 
 I'm currently learning to program in Java and C++ mainly with a bit of Ruby and Rust.
 I've learned to program in Python prior to this.
